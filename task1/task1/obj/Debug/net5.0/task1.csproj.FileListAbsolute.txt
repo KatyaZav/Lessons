@@ -1,0 +1,15 @@
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\task1.AssemblyInfoInputs.cache
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\task1.AssemblyInfo.cs
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\task1.csproj.CoreCompileInputs.cache
+D:\homework\lesson1\task1\task1\bin\Debug\net5.0\task1.exe
+D:\homework\lesson1\task1\task1\bin\Debug\net5.0\task1.deps.json
+D:\homework\lesson1\task1\task1\bin\Debug\net5.0\task1.runtimeconfig.json
+D:\homework\lesson1\task1\task1\bin\Debug\net5.0\task1.runtimeconfig.dev.json
+D:\homework\lesson1\task1\task1\bin\Debug\net5.0\task1.dll
+D:\homework\lesson1\task1\task1\bin\Debug\net5.0\task1.pdb
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\task1.dll
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\refint\task1.dll
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\task1.pdb
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\task1.genruntimeconfig.cache
+D:\homework\lesson1\task1\task1\obj\Debug\net5.0\ref\task1.dll
