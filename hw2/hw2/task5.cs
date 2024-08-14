@@ -10,6 +10,7 @@ namespace hw2
         public static void Play()
         {
             const int needAnswersToWin = 3;
+            const int maxAttempts = 6;
             const string yesAnswer = "да";
             const string noAnswer = "нет";
 
@@ -18,15 +19,16 @@ namespace hw2
             while (true)
             {              
                 string gameMassive = "012345678";
-                int attemptsPassed = 6;
+                int attemptsPassed = maxAttempts;
                 int placesGuessed = 0;
 
                 while (true)
                 {
                     PrintArray(gameMassive);
+                    
                     int randomLenght = random.Next(0, gameMassive.Length);
                     int choosedPosition = gameMassive[randomLenght] - '0';
-                    Console.WriteLine("Choosed " + choosedPosition);
+                    //Console.WriteLine("Choosed " + choosedPosition);
 
                     while (attemptsPassed >= 0)
                     {
@@ -37,15 +39,14 @@ namespace hw2
 
                         if (CheckIsRightPlace(selectedСolumn, selectedLine, choosedPosition))
                         {
-                            //Console.WriteLine(gameMassive.Contains(choosedPosition.ToString()));
                             gameMassive = gameMassive.Replace(choosedPosition.ToString(), "");
-                            Console.WriteLine("Win");
+                            Console.Clear();
+                            WriteWithColor("Угадал!\n", ConsoleColor.Green);
                             placesGuessed++;
                             break;
                         }
                         else
-                            WriteWithColor("Nope\n", ConsoleColor.Red);
-
+                            WriteWithColor("Неть\n", ConsoleColor.Red);
                     }
 
                     if (placesGuessed >= needAnswersToWin)
@@ -63,7 +64,7 @@ namespace hw2
                     }
                 }
 
-                Console.WriteLine("Начнем игру?");
+                Console.WriteLine("Еще раз?");
                 string choose = GetChoose(yesAnswer, noAnswer);
 
                 if (choose == noAnswer)
@@ -87,7 +88,7 @@ namespace hw2
 
         public static void PrintArray(string gameMassive)
         {
-            Console.WriteLine("Current array " + gameMassive);
+            //Console.WriteLine("Current array " + gameMassive);
 
             char[,] answerArray = new char[3, 3];
             int currentNumber = 0;
