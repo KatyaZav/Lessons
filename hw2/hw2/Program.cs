@@ -7,7 +7,8 @@ namespace hw2
         static void Main(string[] args)
         {
             //task1.Play();
-            task2.Play();
+            //task2.Play();
+            task3.Play();
         }
     }
 }
