@@ -1,0 +1,16 @@
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.AssemblyInfoInputs.cache
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.AssemblyInfo.cs
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.csproj.CoreCompileInputs.cache
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.sourcelink.json
+D:\homework\lesson1\Lessons\hw2\hw2\bin\Debug\net5.0\hw2.exe
+D:\homework\lesson1\Lessons\hw2\hw2\bin\Debug\net5.0\hw2.deps.json
+D:\homework\lesson1\Lessons\hw2\hw2\bin\Debug\net5.0\hw2.runtimeconfig.json
+D:\homework\lesson1\Lessons\hw2\hw2\bin\Debug\net5.0\hw2.runtimeconfig.dev.json
+D:\homework\lesson1\Lessons\hw2\hw2\bin\Debug\net5.0\hw2.dll
+D:\homework\lesson1\Lessons\hw2\hw2\bin\Debug\net5.0\hw2.pdb
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.dll
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\refint\hw2.dll
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.pdb
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\hw2.genruntimeconfig.cache
+D:\homework\lesson1\Lessons\hw2\hw2\obj\Debug\net5.0\ref\hw2.dll

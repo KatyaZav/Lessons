@@ -6,7 +6,8 @@ namespace hw2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //task1.Play();
+            task2.Play();
         }
     }
 }
