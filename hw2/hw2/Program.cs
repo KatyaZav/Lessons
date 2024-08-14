@@ -8,7 +8,8 @@ namespace hw2
         {
             //task1.Play();
             //task2.Play();
-            task3.Play();
+            //task3.Play();
+            task4.Play();
         }
     }
 }
