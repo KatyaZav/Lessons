@@ -1,0 +1,16 @@
+D:\homework\lesson1\Lessons\hw3\hw3\bin\Debug\net5.0\hw3.exe
+D:\homework\lesson1\Lessons\hw3\hw3\bin\Debug\net5.0\hw3.deps.json
+D:\homework\lesson1\Lessons\hw3\hw3\bin\Debug\net5.0\hw3.runtimeconfig.json
+D:\homework\lesson1\Lessons\hw3\hw3\bin\Debug\net5.0\hw3.runtimeconfig.dev.json
+D:\homework\lesson1\Lessons\hw3\hw3\bin\Debug\net5.0\hw3.dll
+D:\homework\lesson1\Lessons\hw3\hw3\bin\Debug\net5.0\hw3.pdb
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.AssemblyInfoInputs.cache
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.AssemblyInfo.cs
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.csproj.CoreCompileInputs.cache
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.sourcelink.json
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.dll
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\refint\hw3.dll
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.pdb
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\hw3.genruntimeconfig.cache
+D:\homework\lesson1\Lessons\hw3\hw3\obj\Debug\net5.0\ref\hw3.dll
