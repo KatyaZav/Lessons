@@ -17,7 +17,7 @@ namespace hw2
             Random random = new Random();
 
             while (true)
-            {              
+            {
                 string gameMassive = "012345678";
                 int attemptsPassed = maxAttempts;
                 int placesGuessed = 0;
@@ -25,7 +25,7 @@ namespace hw2
                 while (true)
                 {
                     PrintArray(gameMassive);
-                    
+
                     int randomLenght = random.Next(0, gameMassive.Length);
                     int choosedPosition = gameMassive[randomLenght] - '0';
                     //Console.WriteLine("Choosed " + choosedPosition);
@@ -57,7 +57,7 @@ namespace hw2
                     }
 
                     if (attemptsPassed <= 0)
-                    {                        
+                    {
                         Console.Clear();
                         WriteWithColor("Поражение. ", ConsoleColor.Red);
                         break;
@@ -81,7 +81,7 @@ namespace hw2
         public static bool CheckIsRightPlace(int column, int line, int numberIndex)
         {
             var columnIndex = numberIndex % 3 + 1;
-            var lineIndex = (numberIndex - numberIndex % 3) /3 + 1;
+            var lineIndex = (numberIndex - numberIndex % 3) / 3 + 1;
 
             return columnIndex == column && lineIndex == line;
         }
@@ -96,14 +96,14 @@ namespace hw2
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
-                {                    
+                {
                     if (gameMassive.Contains(currentNumber.ToString()))
                         answerArray[i, j] = 'o';
                     else
                         answerArray[i, j] = 'x';
-                    
+
                     currentNumber++;
-                    
+
                     Console.Write(answerArray[i, j]);
                 }
                 Console.WriteLine();
